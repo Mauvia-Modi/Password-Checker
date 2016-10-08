@@ -9,3 +9,5 @@ This password checker checks if your password is internet-ready. Just enter the 
 Hi, I'm Mauvia and this is my first project. You are welcome to suggest improvements!
 
 I want to thank Bucky Roberts of thenewboston for teaching me to program. (https://www.youtube.com/user/thenewboston/featured)
+
+Pizza tastes better on a boat.
